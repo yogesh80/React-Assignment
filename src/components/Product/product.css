@@ -1,0 +1,296 @@
+body {
+    font-family: proxima-nova, sans-serif;
+}
+.dJrjhU {
+    min-width: 320px;
+}
+.mn-cnt {
+    min-height: 75vh;
+}
+.eNjllT {
+    margin-top: 6em;
+}
+.eNjllT .menu-cnt {
+    display: flex;
+    margin: auto;
+    overflow: auto;
+    padding: 3rem 6rem 3rem 3rem;
+}
+.eNjllT .menu-left {
+    display: flex;
+    flex-direction: column;
+    margin-left: 2%;
+    flex: 3 1 0%;
+    margin-right: -3rem;
+}
+.cVANQF {
+    position: relative;
+    margin-top: 0px;
+    height: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+div {
+    display: block;
+}
+.jUGDEI .itm-wrppr {
+    width: 27%;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+}
+.eRJwMX {
+    display: flex;
+    flex-flow: row wrap;
+    right: 0px;
+    left: 0px;
+    max-width: 100%;
+    flex-basis: auto;
+    border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 2px 4px 0px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin: 0rem;
+}
+.eRJwMX .wd-100 {
+    width: 100%;
+}
+/* @media screen and (max-width: 1440px) and (min-width: 1281px) */
+html {
+    font-size: 0.85rem;
+}
+.edelCC {
+    flex-basis: auto;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0.8rem;
+}
+.edelCC .itm-nm-dsc {
+    height: 5rem;
+    border-bottom: 1px solid rgb(233, 233, 233);
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+.edelCC .itm-dsc__nm {
+    flex-basis: auto;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.edelCC .itm-dsc__dscrptn {
+    flex-basis: auto;
+    line-height: 1.2;
+    font-size: 0.875rem;
+    color: rgba(122, 122, 122, 0.87);
+    margin-top: 0.5rem;
+    width: 90%;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.edelCC .itm-dsc__actn {
+    flex-basis: auto;
+    flex-flow: row nowrap;
+    display: flex;
+    margin-top: 0.4rem;
+    margin-bottom: 1.5rem;
+    width: 100%;
+}
+.edelCC .itm-dsc__actn__sz {
+    flex-flow: column nowrap;
+    width: 100%;
+}
+.edelCC .itm-dsc__actn__crst {
+    flex-flow: column nowrap;
+    margin-left: 1rem;
+    width: 60%;
+}
+.edelCC .itm-dsc__actn__crst__nm {
+    width: 1.3rem;
+    height: 0.81rem;
+    font-size: 0.69rem;
+    color: rgba(122, 122, 122, 0.87);
+    margin-bottom: 0.2rem;
+}
+.dVfvkq {
+    position: relative;
+    padding-bottom: 0.1rem;
+}
+.dVfvkq .nm-icn {
+    cursor: pointer;
+}
+.dVfvkq .itm-dsc__actn__sz__dd-ttl {
+    font-size: 11px;
+    color: rgb(53, 53, 53);
+    display: flex;
+    font-weight: 600;
+}
+.ebOjDJ {
+    background-image: url(/static/assets/icons/down_arrow_filled.svg);
+    min-width: 0.3em;
+    min-height: 0.3em;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 0.6em;
+    margin-top: 0.4em;
+    width: 1em;
+    font-weight: 600;
+}
+.edelCC .drp-dwn-crst-hr {
+    margin-top: 0.1rem;
+    width: 100%;
+}
+.edelCC .sz-ln {
+    border-bottom: 0.1rem solid rgb(233, 233, 233);
+}
+.edelCC .itm-dsc__actn__adCrt {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    margin-top: 0.5rem;
+    position: relative;
+}
+.edelCC .itm-dsc__actn__sz__nm {
+    width: 1.3rem;
+    height: 0.81rem;
+    font-size: 0.69rem;
+    color: rgba(122, 122, 122, 0.87);
+    margin-bottom: 0.2rem;
+}
+.dykkXf {
+    min-width: 0px;
+    position: relative;
+    overflow: hidden;
+}
+.edelCC {
+    flex-basis: auto;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0.8rem;
+}
+.dykkXf {
+    min-width: 0px;
+    position: relative;
+    overflow: hidden;
+}
+.dykkXf .img-cvr {
+    height: 8.5rem;
+    width: 100%;
+}
+.dykkXf .img-cvr img {
+    width: 100%;
+    height: 100%;
+}
+.dykkXf img {
+    max-width: 100%;
+    max-height: 450rem;
+    border-radius: 3px 3px 0px 0px;
+}
+.dykkXf .img-wrpr__img-txt {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 6.1rem;
+    left: 0.6rem;
+}
+.dykkXf .img-wrpr__img-txt {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 6.1rem;
+    left: 0.6rem;
+}
+.rupee::before {
+    content: "₹ ";
+}
+.dykkXf .img-wrpr__fav {
+    font-size: 5rem;
+    position: absolute;
+    top: 0.5rem;
+    right: 0.6rem;
+}
+.iBNnip {
+    background-image: url(/static/assets/icons/shadow.svg);
+    min-width: 0.3em;
+    min-height: 0.3em;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 1.6rem;
+    height: 1rem;
+    position: absolute;
+    transform: rotate(180deg);
+    right: 0px;
+    top: 0px;
+    opacity: 0.2;
+    border-radius: 1rem;
+}
+.iwmcbq {
+    background-image: url(/static/assets/icons/favorite.svg);
+    min-width: 0.3em;
+    min-height: 0.3em;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: absolute;
+    right: 0px;
+}
+.dykkXf .img-wrpr__typ {
+    font-size: 2rem;
+    position: absolute;
+    top: 0.5rem;
+    left: 0.6rem;
+}
+.khLfXP {
+    background-image: url(/static/assets/icons/veg.svg);
+    min-width: 0.3em;
+    min-height: 0.3em;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 1rem;
+    height: 1rem;
+}
+.fkPpkx {
+    align-self: center;
+    position: absolute;
+    right: 0.6rem;
+    bottom: 1rem;
+}
+.jrxrSi {
+    align-self: center;
+}
+.jrxrSi button {
+    cursor: pointer;
+    padding: 0.433rem;
+    border: 1px solid rgb(0, 171, 0);
+    color: rgb(0, 171, 0);
+    background-color: rgb(255, 255, 255);
+}
+.jrxrSi button {
+    border-radius: 3px;
+    outline: none;
+    text-transform: uppercase;
+}
+button {
+    appearance: button;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+   
+    
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+}
+.dVfvkq .dd-wrpr {
+    position: absolute;
+}
